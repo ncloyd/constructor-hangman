@@ -24,10 +24,3 @@ exports.toMainJS = wordBank;
 //         this.wordLetters = this.chosenWord.split("");
 //     }
 // };
-
-// display "_" for all letters in selected word
-// function to count number of guesses remaining
-// function to loop "Guess a letter!" after each try
-// correct guesses > Correct!! displays and word break down displayed
-// incorrect guesses > Incorrect!! _ guesses remaining!
-// after all guesses are gone prompt user to end the game
