@@ -5,7 +5,7 @@ var prompt = require('prompt');
 var inquirer = require("inquirer");
 var clear = require('clear');
 
-console.log("Choose a letter within the name of a dog breed");
+console.log("Guess a letter!");
 
 prompt.start();
 // function to start the game
